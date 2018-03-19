@@ -57,10 +57,6 @@
   		<version>1.2.24</version>
   	</dependency>
 
-  	<dependency>
-  		<groupId>org.myweb.shiro.permission</groupId>
-  		<artifactId>permission-dao</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 </project>
