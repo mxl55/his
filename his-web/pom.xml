@@ -46,5 +46,21 @@
   		<artifactId>javaee-api</artifactId>
   		<version>7.0</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-webmvc</artifactId>
+  		<version>4.1.6.RELEASE</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.alibaba</groupId>
+  		<artifactId>fastjson</artifactId>
+  		<version>1.2.24</version>
+  	</dependency>
+
+  	<dependency>
+  		<groupId>org.myweb.shiro.permission</groupId>
+  		<artifactId>permission-dao</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
